@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blender on Professor Guto</title>
-    <link>http://example.org/tags/blender/</link>
+    <link>https://professorguto.github.io/tags/blender/</link>
     <description>Recent content in blender on Professor Guto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://professorguto.github.io/tags/blender/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aula 01 - Introdução</title>
-      <link>http://example.org/posts/disciplinas/modelagem3d/aula01-mod/</link>
+      <link>https://professorguto.github.io/posts/disciplinas/modelagem3d/aula01-mod/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/disciplinas/modelagem3d/aula01-mod/</guid>
+      <guid>https://professorguto.github.io/posts/disciplinas/modelagem3d/aula01-mod/</guid>
       <description>Teste para primeiro post </description>
     </item>
     
